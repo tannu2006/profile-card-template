@@ -25,20 +25,11 @@ profile-card-template/ ├── index.html # Main HTML file ├── style.css
 ## How to Use
 
 1. Clone this repository:
-   ```bash
+
    git clone https://github.com/your-username/profile-card-template.git
 2. cd profile-card-template
 3. Open the index.html file in any web browser to view the profile card.
-
-#Live Demo
-Click here to view the live demo
-(Replace # with the link to your live demo, e.g., GitHub Pages.)
-
-# Screenshots
-
-![Profile Card Desktop View](assets/desktop-view.png)
-![Profile Card Mobile View](assets/mobile-view.png)
-
+4. 
 # Customization Summary
 Updated text content with relevant details.
 Ensured responsiveness across all screen sizes.
